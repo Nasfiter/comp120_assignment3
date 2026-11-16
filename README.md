@@ -1,16 +1,20 @@
 # comp120_assignment3
 COMP120_versioncontrol
-## About
-<!-- 1–2 предложения: что это за проект и для какого курса -->
+## About: COMP 120 GITHUB practise
+
+By completing this assignment, students will:
+1.	Create and manage a project on GitLab/GitHub.
+2.	Use milestones to track progress.
+3.	Create and assign issues.
+4.	Clone repositories and contribute via branches.
+5.	Manage collaborator access.
+
 
 ## Features
-<!-- список: что умеет проект, например Add a task -->
 
-## Usage
-<!-- как клонировать репозиторий и чем пользоваться: команда git clone + ссылка -->
 
-## Milestone
-<!-- название milestone и дата -->
+## Usage: If repo is public than cd: to where copy -> git copy link
 
-## Author
-<!-- имя, student number, курс -->
+## Milestone: Tracks the first working version. Due by November 23, 2026
+
+## Author: Aleksandr Nezhentcev
